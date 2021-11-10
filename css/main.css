@@ -842,6 +842,7 @@ em,
 }
 
 .ft-icon:hover {
+  color: white;
   cursor: pointer;
   transform: scale(1.15);
 }
